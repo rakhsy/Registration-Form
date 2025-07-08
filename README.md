@@ -1,4 +1,7 @@
-![Screenshot](brave_screenshot (1).png)
-![Screenshot](brave_screenshot.png)
+### 📸 Website Preview
+
+![Main Screenshot](brave_screenshot.png)
+
+![Additional Screenshot](brave_screenshot%20(1).png)
 
 
